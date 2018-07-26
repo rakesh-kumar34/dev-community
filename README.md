@@ -1,7 +1,10 @@
 # DevCommunity (A Social Network for Developers)	 
 
 • A small social network web application dedicated to developers using MERN (MongoDB, Express, ReactJS and NodeJS).  
-• Implemeting state management using Redux and secure authentication using JWT(JSON Web Token).
+• The back-end is implemneted as a REST API using Node and Express.
+• The front-end is done using React and integrated with the back-end API.
+• Secure authentication implemented using JWT(JSON Web Token).
+• This project is still work in progress...
 
 ## Server Side - (Node + Express)
 • Used numerous NPM packages like passport(as middleware for implementing private routes), mongoose(object modeling tool designed to work in an asynchronous environment with MongoDB).
